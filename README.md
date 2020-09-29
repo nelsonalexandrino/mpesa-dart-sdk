@@ -1,6 +1,6 @@
 # M-pesa SDK for Dart
 
-A new Flutter package project.
+M-Pesa SDK for Dart is an unofficial library aiming to help develbusinesses integrating every M-Pesa operations to their Dart/Flutter applications
 
 ## Getting Started
 
