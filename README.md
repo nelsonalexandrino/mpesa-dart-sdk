@@ -1,4 +1,4 @@
-# Mpesa SDK for Dart
+# M-pesa SDK for Dart
 
 A new Flutter package project.
 
